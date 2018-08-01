@@ -4,6 +4,8 @@ project's url: https://face-recognition-brainapp.herokuapp.com/
 
 ![screenshot2](https://github.com/eniro/FaceRecognitionApp/blob/master/facerec1.JPG)
 
+![screenshot3](https://github.com/eniro/FaceRecognitionApp/blob/master/Capture.JPG)
+
 
 <h2>Description</h2>
 
